@@ -1,6 +1,10 @@
 # EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+ ###  DATE: 01-03-2024
 
-
+###  NAME: SANTHOSH.T
+###  ROLL NO :212223220100
+###  DEPARTMENT:INFORMATION TECHNOLOGY 
+### YEAR: 1ST YEAR
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
@@ -59,7 +63,10 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### FIGURE-03 CIRCUIT DIAGRAM
+![image](https://github.com/SanthoshThiru/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/148958618/f3be5cc6-e7d9-4270-91c7-9d145afa26ae)
 
+### SCHEMATIC DIAGRAM
+![image](https://github.com/SanthoshThiru/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/148958618/c6734d8a-9be8-49d0-be3b-8d5299bdb17a)
 
 
 ### PROCEDURE:
@@ -76,13 +83,13 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
- *your roll no 
- * your name 
- * department and year 
+![image](https://github.com/SanthoshThiru/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/148958618/ee242106-5d83-456e-a608-d0e6fc1644fc)
+
  
+### Figure 04 COMPARISION OF APPLIED AND MAPPED FORCES 
  
- 
- 
+ ![image](https://github.com/SanthoshThiru/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/148958618/a72c3aed-6510-49dc-bd2d-6cf902cea6fe)
+
  
  
  
@@ -95,10 +102,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  
  
 
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
 
 
-### TABLE -02 standard deviation table 
 ### Population Standard Deviation
 The population standard deviation, the standard definition of σ, is used when an entire population can be measured, and is the square root of the variance of a given data set. In cases where every member of a population can be sampled, the following equation can be used to find the standard deviation of the entire population:
 
